@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yulun</h1>
-<h3 align="center">Master of Science in Computer Science student who is passionate about Web Development, Cloud Computing and AI/ML.</h3>
+<h3 align="center">Master of Science in Computer Science student at Northeastern University.</h3>
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS, OpenAI APIs**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Web Development, AWS, OOD**
-
-- 📫 How to reach me **wang.yulun@northeastern.edu**
+- 💬 Ask me about **Web Development, Cloud Computing, OOD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
